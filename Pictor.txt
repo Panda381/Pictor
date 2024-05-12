@@ -1,0 +1,18 @@
+Pictor
+======
+version 1.0
+freeware shooting game for Windows
+(c) 2024 Miroslav Nemecek
+https://www.breatharian.eu/Panda38
+Panda38@seznam.cz
+hardyplotter2@gmail.com
+
+Pictor game contains 12 backgrounds (for 12 levels),
+13 actors, 36 enemies and 12 music loops.
+
+The Pictor source codes are freely available for any use.
+Source codes can be compiled using MS VC++ 2005.
+
+Pictor on Github, Windows version: https://github.com/Panda381/Pictor
+Pictor on Github, version for Picopad console: https://github.com/Panda381/PicoLibSDK/tree/main/PicoPad/GAME/PICTOR
+Pictor on www: https://www.breatharian.eu/hw/picolibsdk/index_en.html#pictor

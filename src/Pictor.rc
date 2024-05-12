@@ -1,0 +1,232 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#define APSTUDIO_HIDDEN_SYMBOLS
+#include "windows.h"
+#undef APSTUDIO_HIDDEN_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Czech resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CSY)
+#ifdef _WIN32
+LANGUAGE LANG_CZECH, SUBLANG_DEFAULT
+#pragma code_page(1250)
+#endif //_WIN32
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDI_ICON                ICON                    "Icon.ico"
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#define APSTUDIO_HIDDEN_SYMBOLS\r\n"
+    "#include ""windows.h""\r\n"
+    "#undef APSTUDIO_HIDDEN_SYMBOLS\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// TGA
+//
+
+TGA_01BG1               TGA                     "img\\01bg1.tga"
+TGA_02BG1               TGA                     "img\\02bg1.tga"
+TGA_03BG1               TGA                     "img\\03bg1.tga"
+TGA_04BG1               TGA                     "img\\04bg1.tga"
+TGA_05BG1               TGA                     "img\\05bg1.tga"
+TGA_06BG1               TGA                     "img\\06bg1.tga"
+TGA_07BG1               TGA                     "img\\07bg1.tga"
+TGA_08BG1               TGA                     "img\\08bg1.tga"
+TGA_09BG1               TGA                     "img\\09bg1.tga"
+TGA_10BG1               TGA                     "img\\10bg1.tga"
+TGA_11BG1               TGA                     "img\\11bg1.tga"
+TGA_12BG1               TGA                     "img\\12bg1.tga"
+TGA_01BG2               TGA                     "img\\01bg2.tga"
+TGA_02BG2               TGA                     "img\\02bg2.tga"
+TGA_03BG2               TGA                     "img\\03bg2.tga"
+TGA_04BG2               TGA                     "img\\04bg2.tga"
+TGA_05BG2               TGA                     "img\\05bg2.tga"
+TGA_06BG2               TGA                     "img\\06bg2.tga"
+TGA_07BG2               TGA                     "img\\07bg2.tga"
+TGA_08BG2               TGA                     "img\\08bg2.tga"
+TGA_09BG2               TGA                     "img\\09bg2.tga"
+TGA_10BG2               TGA                     "img\\10bg2.tga"
+TGA_11BG2               TGA                     "img\\11bg2.tga"
+TGA_12BG2               TGA                     "img\\12bg2.tga"
+TGA_01BG3               TGA                     "img\\01bg3.tga"
+TGA_02BG3               TGA                     "img\\02bg3.tga"
+TGA_03BG3               TGA                     "img\\03bg3.tga"
+TGA_04BG3               TGA                     "img\\04bg3.tga"
+TGA_05BG3               TGA                     "img\\05bg3.tga"
+TGA_06BG3               TGA                     "img\\06bg3.tga"
+TGA_07BG3               TGA                     "img\\07bg3.tga"
+TGA_08BG3               TGA                     "img\\08bg3.tga"
+TGA_09BG3               TGA                     "img\\09bg3.tga"
+TGA_10BG3               TGA                     "img\\10bg3.tga"
+TGA_11BG3               TGA                     "img\\11bg3.tga"
+TGA_12BG3               TGA                     "img\\12bg3.tga"
+TGA_00ACT               TGA                     "img\\00act.tga"
+TGA_01ACT               TGA                     "img\\01act.tga"
+TGA_02ACT               TGA                     "img\\02act.tga"
+TGA_03ACT               TGA                     "img\\03act.tga"
+TGA_04ACT               TGA                     "img\\04act.tga"
+TGA_05ACT               TGA                     "img\\05act.tga"
+TGA_06ACT               TGA                     "img\\06act.tga"
+TGA_07ACT               TGA                     "img\\07act.tga"
+TGA_08ACT               TGA                     "img\\08act.tga"
+TGA_09ACT               TGA                     "img\\09act.tga"
+TGA_10ACT               TGA                     "img\\10act.tga"
+TGA_11ACT               TGA                     "img\\11act.tga"
+TGA_12ACT               TGA                     "img\\12act.tga"
+TGA_SHADOW              TGA                     "img\\shadow.tga"
+TGA_BLOOD               TGA                     "img\\blood.tga"
+TGA_01EN1               TGA                     "img\\01en1.tga"
+TGA_01EN2               TGA                     "img\\01en2.tga"
+TGA_01EN3               TGA                     "img\\01en3.tga"
+TGA_02EN1               TGA                     "img\\02en1.tga"
+TGA_02EN2               TGA                     "img\\02en2.tga"
+TGA_02EN3               TGA                     "img\\02en3.tga"
+TGA_03EN1               TGA                     "img\\03en1.tga"
+TGA_03EN2               TGA                     "img\\03en2.tga"
+TGA_03EN3               TGA                     "img\\03en3.tga"
+TGA_04EN1               TGA                     "img\\04en1.tga"
+TGA_04EN2               TGA                     "img\\04en2.tga"
+TGA_04EN3               TGA                     "img\\04en3.tga"
+TGA_05EN1               TGA                     "img\\05en1.tga"
+TGA_05EN2               TGA                     "img\\05en2.tga"
+TGA_05EN3               TGA                     "img\\05en3.tga"
+TGA_06EN1               TGA                     "img\\06en1.tga"
+TGA_06EN2               TGA                     "img\\06en2.tga"
+TGA_06EN3               TGA                     "img\\06en3.tga"
+TGA_07EN1               TGA                     "img\\07en1.tga"
+TGA_07EN2               TGA                     "img\\07en2.tga"
+TGA_07EN3               TGA                     "img\\07en3.tga"
+TGA_08EN1               TGA                     "img\\08en1.tga"
+TGA_08EN2               TGA                     "img\\08en2.tga"
+TGA_08EN3               TGA                     "img\\08en3.tga"
+TGA_09EN1               TGA                     "img\\09en1.tga"
+TGA_09EN2               TGA                     "img\\09en2.tga"
+TGA_09EN3               TGA                     "img\\09en3.tga"
+TGA_10EN1               TGA                     "img\\10en1.tga"
+TGA_10EN2               TGA                     "img\\10en2.tga"
+TGA_10EN3               TGA                     "img\\10en3.tga"
+TGA_11EN1               TGA                     "img\\11en1.tga"
+TGA_11EN2               TGA                     "img\\11en2.tga"
+TGA_11EN3               TGA                     "img\\11en3.tga"
+TGA_12EN1               TGA                     "img\\12en1.tga"
+TGA_12EN2               TGA                     "img\\12en2.tga"
+TGA_12EN3               TGA                     "img\\12en3.tga"
+TGA_00SHOT              TGA                     "img\\00shot.tga"
+TGA_01SHOT              TGA                     "img\\01shot.tga"
+TGA_02SHOT              TGA                     "img\\02shot.tga"
+TGA_03SHOT              TGA                     "img\\03shot.tga"
+TGA_04SHOT              TGA                     "img\\04shot.tga"
+TGA_05SHOT              TGA                     "img\\05shot.tga"
+TGA_06SHOT              TGA                     "img\\06shot.tga"
+TGA_07SHOT              TGA                     "img\\07shot.tga"
+TGA_08SHOT              TGA                     "img\\08shot.tga"
+TGA_09SHOT              TGA                     "img\\09shot.tga"
+TGA_10SHOT              TGA                     "img\\10shot.tga"
+TGA_11SHOT              TGA                     "img\\11shot.tga"
+TGA_12SHOT              TGA                     "img\\12shot.tga"
+TGA_BONUSCLOUD          TGA                     "img\\bonuscloud.tga"
+TGA_PICOPAD             TGA                     "img\\picopad.tga"
+TGA_PICOPAD1            TGA                     "img\\picopad1.tga"
+TGA_PICOPAD2            TGA                     "img\\picopad2.tga"
+TGA_PICOPAD3            TGA                     "img\\picopad3.tga"
+TGA_PICOPAD4            TGA                     "img\\picopad4.tga"
+TGA_EXPLOSION           TGA                     "img\\explosion.tga"
+TGA_HEART               TGA                     "img\\heart.tga"
+TGA_BULLET1             TGA                     "img\\bullet1.tga"
+TGA_BULLET2             TGA                     "img\\bullet2.tga"
+TGA_BULLET3             TGA                     "img\\bullet3.tga"
+TGA_FONT                TGA                     "img\\font.tga"
+TGA_FONTSMALL           TGA                     "img\\fontsmall.tga"
+TGA_TITLE               TGA                     "img\\title.tga"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// WAV
+//
+
+WAV_BIGBONUS            WAV                     "snd\\bigbonus.wav"
+WAV_BLACKHOLE           WAV                     "snd\\blackhole.wav"
+WAV_BLACKHOLE2          WAV                     "snd\\blackhole2.wav"
+WAV_ELECTRICITY         WAV                     "snd\\electricity.wav"
+WAV_ENEMYHIT            WAV                     "snd\\enemyhit.wav"
+WAV_FAIL                WAV                     "snd\\fail.wav"
+WAV_FLAME               WAV                     "snd\\flame.wav"
+WAV_GLASS               WAV                     "snd\\glass.wav"
+WAV_GUN                 WAV                     "snd\\gun.wav"
+WAV_LASERSHOT           WAV                     "snd\\lasershot.wav"
+WAV_MINIGUN             WAV                     "snd\\minigun.wav"
+WAV_MUSIC1              WAV                     "snd\\music1.wav"
+WAV_MUSIC2              WAV                     "snd\\music2.wav"
+WAV_MUSIC3              WAV                     "snd\\music3.wav"
+WAV_MUSIC4              WAV                     "snd\\music4.wav"
+WAV_MUSIC5              WAV                     "snd\\music5.wav"
+WAV_MUSIC6              WAV                     "snd\\music6.wav"
+WAV_MUSIC7              WAV                     "snd\\music7.wav"
+WAV_MUSIC8              WAV                     "snd\\music8.wav"
+WAV_MUSIC9              WAV                     "snd\\music9.wav"
+WAV_MUSIC10             WAV                     "snd\\music10.wav"
+WAV_MUSIC11             WAV                     "snd\\music11.wav"
+WAV_MUSIC12             WAV                     "snd\\music12.wav"
+WAV_NOISE               WAV                     "snd\\noise.wav"
+WAV_PHASERSHOT          WAV                     "snd\\phasershot.wav"
+WAV_ROCKETSHOT          WAV                     "snd\\rocketshot.wav"
+WAV_SCREAMING           WAV                     "snd\\screaming.wav"
+WAV_SWING               WAV                     "snd\\swing.wav"
+WAV_THROW               WAV                     "snd\\throw.wav"
+WAV_ZING                WAV                     "snd\\zing.wav"
+#endif    // Czech resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
